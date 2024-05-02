@@ -6,7 +6,7 @@ public class Jogadores {
     private Integer votos;
 
     public Jogadores(String nome, Integer votos) {
-        this.nome = nome;
+       this.nome = nome;
         this.votos = votos;
     }
 

@@ -20,4 +20,4 @@ Este repositório contém uma coleção de projetos desenvolvidos na disciplina 
 
 
    ## Versão do JDK:
-- Esses projetos foram desenvolvidos utilizando Java Development Kit (JDK) versão 21.0.1.
+- Esses projetos foram desenvolvidos utilizando Java Development Kit (JDK) versão  21.0.1.  

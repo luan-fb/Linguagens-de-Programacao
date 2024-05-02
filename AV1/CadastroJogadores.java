@@ -3,7 +3,7 @@ package AV1;
 import java.util.ArrayList;
 
 public class CadastroJogadores{
-    public static ArrayList cadastrojogadores() {
+     public static ArrayList cadastrojogadores() {
 
         ArrayList<Jogadores> jogadores = new ArrayList<Jogadores>();
         Jogadores Alane = new Jogadores("Alane Dias", 0);
