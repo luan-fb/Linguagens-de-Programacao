@@ -1,7 +1,10 @@
-<div align="center"> <img src="https://github.com/luan-fb/Linguagens-de-Programacao/blob/main/AV1/img/bbb-big-brother-brasil-Photoroom.png-Photoroom.png?raw=true" width="300">
+<div align="center">
+   
+ # Projeto BBB Prova AV1 - Linguagens de Programação
+   
+<img src="https://github.com/luan-fb/Linguagens-de-Programacao/blob/main/AV1/img/bbb-big-brother-brasil-Photoroom.png-Photoroom.png?raw=true" width="300">
 </div>
 
-# Projeto BBB Prova AV1 - Linguagens de Programação
 
 Este projeto foi desenvolvido como parte da avaliação AV1 da disciplina de Linguagens de Programação. Ele consiste em um sistema de votação simulando um reality show, onde os usuários podem votar em participantes para saírem da "casa".
 
