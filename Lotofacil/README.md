@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://github.com/luan-fb/Linguagens-de-Programacao/blob/main/Lotofacil/img/Logo%20loteria.png?raw=true" width="100">
+ 
+<img src="https://github.com/luan-fb/Linguagens-de-Programacao/blob/main/Lotofacil/img/Logo%20loteria.png?raw=true" width="100"> 
+ 
+ # Projeto Lotofácil do Luan  
+ 
 </div>
-
-# Projeto Lotofácil do Luan   
 
 O projeto Lotofácil é uma aplicação Java que permite aos usuários realizar apostas em diferentes modalidades da loteria. Atualmente, o projeto oferece três opções de apostas: apostar em um número de 0 a 100, apostar em uma letra de A à Z e apostar em números pares ou ímpares.
 
