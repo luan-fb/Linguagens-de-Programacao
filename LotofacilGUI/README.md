@@ -1,8 +1,9 @@
 <div align="center">
+
+  # Projeto LotofácilGUI
 <img src="https://github.com/luan-fb/Linguagens-de-Programacao/blob/main/LotofacilGUI/img/Logo%20loteria.png?raw=true" width="100">
 </div>
 
-# Projeto LotofácilGUI
 
 ## Sobre o Projeto
 LotoFacil é um aplicativo de loteria interativo desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O aplicativo permite aos usuários participar de três tipos diferentes de jogos de aposta:
